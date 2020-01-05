@@ -15,5 +15,4 @@ to them as per the requirements. Otsu’s Thresholding is used for preprocessing
 followed by our modified approach of feature extraction, and is used to train the
 classifiers - SVM and KNN, followed by Genetic Algorithm to enhance results.
 We used much known MIAS mammography dataset, consisting of 322 CT-Scan
-images classified as benign, malignant and normal, as Input and created a table
-for comparative study.
+images classified as benign, malignant and normal, as Input.
